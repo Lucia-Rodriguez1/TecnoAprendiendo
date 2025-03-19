@@ -1,0 +1,56 @@
+
+ *{
+    margin: 0;
+    padding: 0;
+ }
+
+main{
+    width: 70%;
+    margin-left: 15%;
+    border: 6px solid rgb(44, 18, 7);
+   
+}
+header{
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.lista{
+    width: 50%;
+    margin-left: 35%;
+    
+
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(44, 18, 7);
+}
+
+
+#nombre{
+    background-color: rgb(44, 18, 7);
+    border: 4px solid rgb(44, 18, 7);
+    color: antiquewhite;
+    text-align: center;
+   
+}
+
+img {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 6px;
+}
+.imagen{
+    background-color: rgb(44, 18, 7) ;
+}
+
+article{
+    background-color: aquamarine;
+    width: 70%;
+    margin-left: 15%;  
+
+}
