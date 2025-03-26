@@ -1,12 +1,11 @@
-
- *{
+*{
     margin: 0;
     padding: 0;
  }
 
 main{
-    width: 70%;
-    margin-left: 15%;
+    width: 75%;
+    margin-left: 13%;
     border: 6px solid rgb(44, 18, 7);
    
 }
@@ -41,7 +40,7 @@ body{
 
 img {
     width: 30%;
-    margin-left: 35%;
+    margin-left: 34%;
     margin-top: 6px;
 }
 .imagen{
@@ -49,8 +48,17 @@ img {
 }
 
 article{
-    background-color: aquamarine;
+    
     width: 70%;
     margin-left: 15%;  
+    display: flex;
+    padding: 5px;
+    border: 4px solid rgb(44, 18, 7);
 
+}
+
+.gato{
+    width: 100%;
+    padding: 5px;
+   
 }
